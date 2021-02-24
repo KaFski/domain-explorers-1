@@ -54,3 +54,4 @@ Jeśli chcesz podzielić się efektem swojej pracy, umieść link do swojego rep
 - [Damian Michalik](https://github.com/damianmichalik/domain-explorers)
 - [Arkadiusz Krakowiak](https://github.com/Arminek/DomainExplorers)
 - [Marek Czubak](https://github.com/Marecqi/domain-explorers)
+- [Paweł Kawecki](https://miro.com/app/board/o9J_lS6XJ9U=/)
